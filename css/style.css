@@ -1,0 +1,122 @@
+
+.courses{
+	background-color: #265D7C!important;
+	font: Bold 24px/33px Comic Sans MS;
+	color: #C6F2FD;
+	position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border-radius: .25rem;
+}
+.redText{
+	color:#EF3B24;
+}
+
+body{
+	font-family: "Comic Sans MS";
+}
+#teachers{
+	background-color:#E0E9EE;
+}
+.fc{color: #FFFFFF!important;}
+.fct{color: #e8e8e8!important;}
+.fcsignup{color: #2699FB!important;}
+.bold{font-weight:bold;}
+
+#logoImg{
+	height:35px;
+	margin:0 10px 0 10px;
+}
+.h-img{
+	position:relative;
+}
+.h-text{
+	position:absolute;	
+	top:50%;
+	float:right;
+	width:100%;
+	text-align:right;
+}
+.tinfo{
+	border: 1px solid #265D7C;
+	border-radius: 5px;
+	color:#265D7C;
+}
+.video{
+	width: 40%;
+}
+.time{
+	background-color:#D0E2E9;
+	border: 1px solid #D0E2E9;
+	border-radius: 5px;
+}
+.centert{
+	margin:10px auto;
+}
+.bg-form{
+	background-image:radial-gradient(closest-side at 50% 50%, #C6F2FD 0%, #6BB0C9 100%);
+}
+.bg-nav{
+	background-color: #265D7C;
+}
+.bg-wh{
+	background-color: #FFFFFF!important;
+}
+.bg-signup{
+	background-image:radial-gradient(closest-side at 50% 50%, #C6F2FD 0%, #6BB0C9 100%);
+}
+.bg-bl{
+	background-color: #E0E9EE;
+}
+.bg-com{
+	background-image:linear-gradient(180deg, #6BB0C9 0%, #1C356B 100%);
+}
+ .modal-dialog {
+    min-height: calc(100vh - 60px);
+    overflow: auto;
+}
+.bg-Tinfo{
+	background-color: #EF3B24;
+}
+#bg-c{
+	background-image: radial-gradient(closest-side at 50% 50%, #C6F2FD 0%, #6BB0C9 100%);
+	}
+.bg-hero{
+	background-image:linear-gradient(178deg, #FFFFFF 0%, #6BB0C9 100%);
+}
+.btn-red{
+	color: #ffffff;
+    background-color: #EA3E18;
+    border-color: #EA3E18;
+}
+.container-signup{
+	width:35%;
+	margin:0 auto;
+}
+.aw-height {
+    height: 8rem;
+}
+.price{
+    border-radius: .25rem;
+	margin:0 auto;
+	font:Bold 33px Comic Sans MS;
+}
+.labels {
+	display: inline-block;
+	margin-bottom: 0;
+}
+.teacherIcon{
+	height:280px;
+}
+.aw-profile-pic {
+	height: 88px;
+}
+@media (min-width: 1200px) {
+    .container-fluid {
+        max-width: 1140px;
+    }
+	
